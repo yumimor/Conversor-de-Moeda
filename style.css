@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif,
+    monospace;
+    min-height: 400px;
+    background-image: url("https://img.freepik.com/fotos-gratis/carrinho-de-compras-em-fundo-preto-com-espaco-de-copia_23-2148317906.jpg?size=626&ext=jpg");
+    background-color: #1c1c1c;
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+label {
+    color: white;
+}
+
+button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 30px;
+}
